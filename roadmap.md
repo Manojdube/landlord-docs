@@ -35,3 +35,11 @@
 - Dues auto-generated
 - Payments trackable
 - Docs repo live and public
+
+
+## ✅ Phase 1 Checklist
+ - Add Tenant API
+ - Auto-generate dues on a recurring date
+ - Mark dues as paid (full/partial)
+ - Add expense to tenant or landlord
+ - Docker setup for all services
