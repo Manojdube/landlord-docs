@@ -59,3 +59,11 @@ Payment Service → http://localhost:3003
 Expense Service → http://localhost:3004
 
 
+📘 Future Enhancements (Post Phase 1)
+✅ Authentication Service (JWT)
+✅ Tenant role APIs (for Phase 2)
+✅ Redis for due-generation job caching
+✅ Background job scheduler (e.g., BullMQ)
+✅ Email/WhatsApp reminders
+
+
