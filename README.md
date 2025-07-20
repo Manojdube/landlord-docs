@@ -9,9 +9,9 @@ Designed to serve middle to low-income housing in growing economies.
 
 ## 📂 Key Sections
 
-- [Project Overview](./docs/overview.md)
-- [Phase 1 Roadmap](./docs/roadmap.md)
-- [Frontend (React Native)](./docs/frontend.md)
-- [Backend (Microservices)](./docs/backend.md)
-- [API Specifications](./docs/api-specs.md)
-- [User Roles](./docs/roles.md)
+- [Project Overview](./overview.md)
+- [Phase 1 Roadmap](./roadmap.md)
+- [Frontend (React Native)](./frontend.md)
+- [Backend (Microservices)](./backend.md)
+- [API Specifications](./api-specs.md)
+- [User Roles](./roles.md)
