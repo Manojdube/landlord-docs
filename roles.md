@@ -9,3 +9,4 @@
 - View dues
 - See payment history
 - Set reminders (optional)
+- Set reminders (optional)test
